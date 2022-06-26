@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gorillana
-- 👀 I’m interested in learning how to be a great programmer/coder/software developer.
+- 👀 I’m interested in learning how to be a great programmer/software developer.
 - 🌱 I’m currently learning Python, Automation, HTML
 - 💞️ I’m looking to collaborate on, not sure yet, to be honest.
 - 📫 How to reach me...
