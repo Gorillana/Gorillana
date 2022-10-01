@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gorillana
 - 👀 I’m interested in learning how to be a great programmer/software developer.
-- 🌱 I’m currently learning Python, Automation, HTML
-- 💞️ I’m looking to collaborate on, not sure yet, to be honest.
+- 🌱 I’m currently take CS50 and learning C, Python, Automation, HTML
+- 💞️ I’m looking to collaborate on... not sure yet, to be honest.
 - 📫 How to reach me...
 
 <!---
