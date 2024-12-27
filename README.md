@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gorillana
-- 👀 I’m interested in learning how to be a great programmer/software developer.
-- 🌱 I’m currently take CS50 and learning C, Python, Automation, HTML
-- 💞️ I’m looking to collaborate on... not sure yet, to be honest.
-- 📫 How to reach me...
+- 👀 I’m interested in learning how to be a great programmer.
+- 🌱 I’ve completed cs50 as a starting point towards learning C, Python, Automation, HTML/CSS, Go, Rust
+- 💞️ I’m looking to collaborate on different kinds of projects
+- 📫 How to reach me - message me here? lol idk
 
 <!---
 Gorillana/Gorillana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
